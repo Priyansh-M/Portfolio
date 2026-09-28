@@ -21,4 +21,15 @@ export const projects = [
   repo: "https://github.com/Priyansh-M/Telegram_quiz_bot",
 },
 
+ {
+  
+  name: "ConDraft",
+  summary:
+    "A guided drafting aid for Indian agreements. Users pick from 31 contract types, answer questions in plain English, and receive a deed-format draft with recitals, witnesses, and footnotes to public central Acts. Drafts are stored only on the signed-in account and isolated with Supabase Auth and row-level security; unsigned work is not kept. It is a legal-reference tool, not a law firm, and does not give legal advice or file, stamp, or register documents.",
+  year: "2026",
+  tags: ["Next.js", "Supabase", "PostgreSQL", "TypeScript", "Tailwind CSS", "jsPDF"],
+  href: "https://con-draft.vercel.app/",
+  repo: "https://github.com/Priyansh-M/ConDraft",
+},
+
 ]
