@@ -1,10 +1,10 @@
 # Priyansh — Portfolio
 
 A personal site for my work. The left column is name, role, photo, links, and tech stack. The right column is a project timeline. Project names open the live app when a URL is set; **Code** opens the GitHub repo.
-
+Link to the site : https://priyansh-m.github.io/Portfolio/
 ## Stack
 
-- [React](https://react.dev/) 19
+- [React](https://react.dev/) 
 - [Vite](https://vite.dev/)
 
 Content lives in two files. You do not need a database.
