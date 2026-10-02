@@ -7,8 +7,6 @@ Link to the site : https://priyansh-m.github.io/Portfolio/
 - [React](https://react.dev/) 
 - [Vite](https://vite.dev/)
 
-Content lives in two files. You do not need a database.
-
 | File | What it controls |
 | --- | --- |
 | `src/profile.js` | Name, role, bio, photo, social links, tech stack |
