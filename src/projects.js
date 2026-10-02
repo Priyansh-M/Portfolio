@@ -31,5 +31,14 @@ export const projects = [
   href: "https://con-draft.vercel.app/",
   repo: "https://github.com/Priyansh-M/ConDraft",
 },
+ {
+  name: "Volterisk",
+  summary:
+    "A browser heist game where operators build vaults, run jobs, rob crews and players, and manage heat. One Vercel app serves the React client and Express API, with Prisma on Supabase Postgres for the live ledger.",
+  year: "2026",
+  tags: ["React", "Vite", "Express", "Prisma", "Supabase", "PostgreSQL", "TypeScript", "Tailwind CSS", "Vercel"],
+  href: "https://volterisk.vercel.app/",
+  repo: "https://github.com/Priyansh-M/Volterisk",
+},
 
 ]
