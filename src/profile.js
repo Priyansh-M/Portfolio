@@ -2,7 +2,7 @@
 export const profile = {
   name: "Priyansh",
   role: "CS Major /  Student Developer",
-  bio: "I build stuff lowk kinda fun.",
+  bio: "I build whatever ideas I get pasionate about and like building almost anything, Heres some of my projects down below.",
   // Profile photo. For Postimages, use the "Direct link" (starts with https://i.postimg.cc/),
   // not the page link. Leave empty to show your first initial instead.
   avatar: "https://i.postimg.cc/5yxFbmvW/asta.jpg",
